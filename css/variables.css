@@ -1,0 +1,38 @@
+:root {
+    /* Colors */
+
+    --color-bg: #09080d;
+    --color-surface: #121019;
+    --color-surface-elevated: #1b1724;
+
+    --color-text: #f1eef5;
+    --color-text-muted: #9a94a5;
+
+    --color-accent: #8b5cf6;
+    --color-accent-dark: #5b21b6;
+    --color-accent-light: #c4b5fd;
+
+
+    /* Typography */
+
+    --font-display: "Inter", sans-serif;
+    --font-body: "Inter", sans-serif;
+
+
+    /* Layout */
+
+    --container-width: 1400px;
+
+    --spacing-xs: 0.5rem;
+    --spacing-sm: 1rem;
+    --spacing-md: 2rem;
+    --spacing-lg: 4rem;
+    --spacing-xl: 8rem;
+
+
+    /* Motion */
+
+    --transition-fast: 180ms ease;
+    --transition-normal: 400ms cubic-bezier(.22, 1, .36, 1);
+    --transition-slow: 800ms cubic-bezier(.22, 1, .36, 1);
+}

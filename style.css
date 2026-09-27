@@ -1,1 +1,14 @@
 */rgba(0,0,0,.65)*/
+:root {
+    --bg: #0b0b0c;
+    --surface: #131315;
+    --text: #f1f0eb;
+    --muted: #858585;
+    --accent: #8de7ff;
+
+    --font-display: ...;
+    --font-body: ...;
+
+    --radius: 2px;
+    --container: 1400px;
+}
